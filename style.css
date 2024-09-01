@@ -1,0 +1,94 @@
+#main{
+    background-color: rgb(33, 32, 32);
+    width: 320.5px;
+    height: 475px;
+    border-radius: 5px ;
+}
+#scrn{
+    background-color: rgb(33, 32, 32);
+    height: 150px;
+    margin: auto;
+}
+button{
+    height : 51px;
+    width: 75px;
+    background-color: rgb(57, 57, 55);
+    border-radius: 4px;
+    border : black solid 0px;
+    margin-left: 0px;
+    margin-top: 2px;
+    color: white;
+    font-size: 16px;
+    /* font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+button:hover{
+    background-color: rgb(42, 42, 42);
+}
+#zero{
+    width: 75px;
+    
+}
+#eq{
+    background-color: rgb(71, 165, 247);
+    color: black;
+    font-size: large;
+}
+#eq:hover{
+    background-color: rgb(0, 131, 246);
+}
+.col{
+    background-color: rgb(42, 41, 41);
+}
+.col:hover{
+    background-color: rgba(57, 57, 55);
+}
+.row1{
+    background-color: rgb(42, 42, 42);
+}
+.row1:hover{
+    background-color: rgb(57, 57, 55);
+}
+.row2{
+    background-color: rgb(42, 42, 42);
+}
+.row2:hover{
+    background-color: rgba(57, 57, 57);
+}
+p{
+    text-align: center;
+    margin-top: 1px;
+    text-transform: uppercase;
+}
+#rec{
+    margin-top: 0px;
+}
+#rem{
+    margin-left: 5px;
+}
+#rec{
+    margin-left: 5px;
+}
+#seven{
+    margin-left: 5px;
+}
+#four{
+    margin-left: 5px;
+}
+#one{
+    margin-left: 5px;
+}
+#neg{
+    margin-left: 5px;
+}
+input{
+    height: 140px;
+    width: 308.5px;
+    margin-left: 5px;
+    background-color: rgb(33, 32, 32);
+    border: 0px;
+    font-size: 40px;
+    
+    color: rgb(255, 254, 254);
+    text-align: right;
+}
